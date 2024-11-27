@@ -1,0 +1,3 @@
+https://docs.docker.com/reference/dockerfile/
+
+Once Dockerfile  --->  docker build -t FS_docker
